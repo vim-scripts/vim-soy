@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3587
+
+This is a highlighting file for Google Closure Tools' "soy" templating language.
+
+You can download development versions from its GitHub page:
+
+https://github.com/duganchen/vim-soy
